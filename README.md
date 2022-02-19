@@ -6,7 +6,7 @@ Also creates a json files with datas
 
 
 ---JSON FILE---
-![SONFile](https://user-images.githubusercontent.com/76884187/154821331-5ab9c599-502f-4676-b46a-8e5c8a875041.png)
+![SONFile](https://user-images.githubusercontent.com/76884187/154821342-5f37aeda-3047-4d2a-9589-aa8e9e33ef7f.png)
 
 
 
