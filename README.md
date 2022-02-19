@@ -11,6 +11,7 @@ Also creates a json files with datas
 
 
 References: 
+
 [Reference-1](https://docs.scrapy.org/en/latest/)
 
 [Reference-2](https://www.imdb.com/search/title/?count=100&groups=top_1000&sort=user_rating)
