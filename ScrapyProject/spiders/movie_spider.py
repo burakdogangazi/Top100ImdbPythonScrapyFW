@@ -24,7 +24,7 @@ class MoviesSpider(scrapy.Spider):
                 "certificate" : movie_certificate[i],
                 "runtime" : movie_runtime[i],
                 "genre" : movie_genre[i],
-                "rating" : movie_imdb
+                "rating" : movie_imdb[i]
             } 
             i+=1
        
